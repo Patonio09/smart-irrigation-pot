@@ -65,6 +65,7 @@ It helps save water, reduce human error, and improve plant health — contributi
 │   ├── pot-photo.jpg
 │   ├── app-screenshot.png
 └── README.md
+```
 
 ---
 
