@@ -54,15 +54,16 @@ It helps save water, reduce human error, and improve plant health — contributi
 ---
 
 ## 📂 Repository Structure
+```text
 ├── hardware/
-│ ├── pcb-design.png
-│ ├── schematic.pdf
+│   ├── pcb-design.png
+│   ├── schematic.pdf
 ├── software/
-│ ├── main.ino
-│ ├── raspberry.py
+│   ├── main.ino
+│   ├── raspberry.py
 ├── images/
-│ ├── pot-photo.jpg
-│ ├── app-screenshot.png
+│   ├── pot-photo.jpg
+│   ├── app-screenshot.png
 └── README.md
 
 ---
