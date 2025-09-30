@@ -65,15 +65,11 @@ It helps save water, reduce human error, and improve plant health — contributi
 │ ├── app-screenshot.png
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 👨‍💻 Author
 **Patricio Flores**  
 - MSc Automation & Control – TU Ilmenau  
 - Passionate about Automation, IoT, and GreenTech 🌱  
-- [LinkedIn Profile](https://www.linkedin.com/in/tu-url)  
-\- \[LinkedIn Profile](https://www.linkedin.com/in/patricio-flores-juarez)  
+- [LinkedIn Profile](https://www.linkedin.com/in/patricio-flores-juarez)  
 
