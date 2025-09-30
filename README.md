@@ -1,4 +1,3 @@
-# Smart-Irrigation-Pot
 # Smart Irrigation Pot 🌱💧
 
 A self-watering smart pot designed and built from scratch using Arduino Nano, sensors, and a mobile app.  
